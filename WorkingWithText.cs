@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Text;
 
-namespace Phase1Section3._10
-{
-    class Program
+namespace LearnPracticeProgram
+{ 
+    class WorkingWithText
     {
         static void Main(string[] args)
         {
