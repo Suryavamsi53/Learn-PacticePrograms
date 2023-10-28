@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>LearnPracticeProgram.Program</StartupObject>
+    <StartupObject>Learn_PacticePrograms.SinglyLinked.SinglyLinkedList</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -61,6 +61,7 @@
     <Compile Include="Recursion.cs" />
     <Compile Include="SelectionSort.cs" />
     <Compile Include="ShellSort.cs" />
+    <Compile Include="SinglyLinkedList.cs" />
     <Compile Include="Stack.cs" />
     <Compile Include="WorkingWithText.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
